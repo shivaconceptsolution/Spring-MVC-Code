@@ -1,0 +1,29 @@
+*
+{
+margin:0px;
+}
+header,footer
+{
+	height:200px;
+	background-color: blue;
+	color:white;
+}
+header ul li
+{
+display:inline;
+margin-left:10px;
+}
+header ul li a
+{
+   color:white;
+   text-decoration: none;
+}
+span
+{
+	color:red;
+}
+section
+{
+	height:500px;
+	background-color: gray;
+}
